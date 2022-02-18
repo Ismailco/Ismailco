@@ -4,13 +4,13 @@
 
  👨‍💻 I am ismail courr, a **Web Developer** (specializing in **Front End Web Development**).
 
- 🌱 I am enthusiastic about learning new technology. In 2020 I start learning about the web, I learned **HTML**, **CSS**, and **JavaScript**. In 2021 till now, I learned **React**, **TypeScript**, **SASS**.
+ 🌱 I am enthusiastic about learning new technology. In 2020 I learned about the web, **HTML**, **CSS**, and **JavaScript**. In 2021 till now, I learned **React**, **TypeScript**, **SASS**, **Webpack**.
  
  👀 Outside the world of tech, I love to develop new skills like **playing guitar**🎸. 
 
  💞️ I love reading **Novels** and books 📚 on **personal development** and **Philosophie**.
 
-✈️ I love **travelling** as well, even though its been some time since I last travelled.
+✈️ I love **traveling** as well, even though it's been some time since I last traveled.
 
 ## 🛠️ Skills
 
