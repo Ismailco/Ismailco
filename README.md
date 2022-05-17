@@ -29,6 +29,13 @@
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![webpack](https://img.shields.io/badge/webpack-3178C6?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
 
+### Back-End Development
+
+[![Ruby](https://img.shields.io/badge/Ruby-880f07?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![Ruby on rails](https://img.shields.io/badge/Ruby_on_rails-d20101?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://www.ruby-lang.org/en/)
+[![MongoDB](https://img.shields.io/badge/Mongo_DB-011f2c?style=for-the-badge&logo=mongodb&logoColor=116148)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-32648d?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 ## 🖥️ Workspace Setup
 
 ![hp elitebook](https://img.shields.io/badge/hp_elitebook-0071C5?style=for-the-badge&logo=laptop&logoColor=white)
