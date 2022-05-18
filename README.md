@@ -16,8 +16,10 @@
 
 ### Languages
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-880f07?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![C](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=C&logoColor=white)](https://www.iso.org/standard/74528.html)
 
 ### Front-End Development
 
@@ -31,7 +33,6 @@
 
 ### Back-End Development
 
-[![Ruby](https://img.shields.io/badge/Ruby-880f07?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![Ruby on rails](https://img.shields.io/badge/Ruby_on_rails-d20101?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://www.ruby-lang.org/en/)
 [![MongoDB](https://img.shields.io/badge/Mongo_DB-011f2c?style=for-the-badge&logo=mongodb&logoColor=116148)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-32648d?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
