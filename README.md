@@ -1,7 +1,7 @@
 <!-- # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> -->
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1>
-<h3 align="center">A passionateWeb Developer (specializing in Front End Web Development) from Morocco</h3>
+<h3 align="center">A passionate Web Developer (specializing in Front End Web Development) from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> </p>
 
@@ -68,11 +68,11 @@
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" /></p>
 
 
 <!-- ## 🛠️ Skills
