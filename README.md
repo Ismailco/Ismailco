@@ -39,9 +39,15 @@
 
 ## 🖥️ Workspace Setup
 
-![hp elitebook](https://img.shields.io/badge/hp_elitebook-0071C5?style=for-the-badge&logo=laptop&logoColor=white)
+![Lenovo Thinkpad](https://img.shields.io/badge/Lenovo_Thinkpad-0071C5?style=for-the-badge&logo=laptop&logoColor=white)
 [![linux](https://img.shields.io/badge/linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://manjaro.org/)
 [![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
+
+![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## 📈 Progress
 
