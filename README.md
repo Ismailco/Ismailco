@@ -43,6 +43,8 @@
 [![linux](https://img.shields.io/badge/linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://manjaro.org/)
 [![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
 
+## Github Stats
+
 ![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
