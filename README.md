@@ -7,7 +7,7 @@
 
 <!-- 👨‍💻 I am ismail courr, a **Web Developer** (**Front End/Full Stack**). -->
 
-<img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="image" width="300px">
+<!-- <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="image" width="300px"> -->
 
 - 🌱 I am enthusiastic about learning new technology. In 2020 I learned about the web, **HTML**, **CSS**, and **JavaScript**. In 2021 till now, I learned **React**, **TypeScript**, **SASS**, **Webpack**.
  
