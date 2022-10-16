@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ismailcourr.ml](https://ismailcourr.ml)
 
-- 📫 How to reach me **contact@ismailcourr.ml**
+- 📫 How to reach me **contact[at]ismailcourr[dot]ml**
 
 - 📄 Know about my experiences [https://ismailcourr.ml/Resume.pdf](https://ismailcourr.ml/Resume.pdf)
 
