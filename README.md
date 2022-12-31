@@ -9,7 +9,9 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="image" width="300px"> -->
 
-- 🌱 I am enthusiastic about learning new technology and detail-oriented professional with excellent communication, interpersonal and creative thinking skills. In 2020 I learned about the web, **HTML**, **CSS**, and **JavaScript**. In 2021 till now, I learned **React**, **TypeScript**, **SASS**, **Webpack**, **TailwindCSS**, **Ruby on Rails**, **Postgresql**.
+- 🌱 I am enthusiastic about learning new technology and detail-oriented professional with excellent communication, interpersonal and creative thinking skills.
+
+- 🖥️ Skilled in **HTML**, **CSS**, **JavaScript**, **TailwindCSS**, **SASS**, **TypeScript**, **React**, **Redux**, **Ruby on Rails**, and **PostgreSQL**, Currently learning **Node.js** and **Express**
  
 - 👀 Outside the world of tech, I love to develop new skills like **playing guitar**🎸. 
 
@@ -22,6 +24,8 @@
 - 📫 How to reach me **contact[at]ismailcourr[dot]ml**
 
 - 📄 Know about my experiences [https://ismailcourr.ml/Resume.pdf](https://ismailcourr.ml/Resume.pdf)
+
+**Join me on my journey as a self-taught developer by following my github!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
