@@ -142,8 +142,3 @@
 [![twitter](https://img.shields.io/badge/Twitter-0080ff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ismailcourr/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ismailcourr/)
  -->
-
-<!---
-Ismailco/Ismailco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
