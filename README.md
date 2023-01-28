@@ -77,14 +77,18 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  </p>
+ 
+## 📈 Progress
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" /></p>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ismailco" alt="codersrank profile" width="360"/>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" />
 
+<!--
 ## 🛠️ Skills
 
 ### Languages
@@ -124,21 +128,13 @@
 ![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-## 📈 Progress
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ismailco" alt="codersrank profile" width="360"/>
-
+-->
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ismailcourr.ml)
-[![blog](https://img.shields.io/badge/Blog-f3f3f3?style=for-the-badge&logo=website&logoColor=Blue)](https://www.th3techgeek.tk)
 [![freelancer](https://img.shields.io/badge/Freelancer-0080ff?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/ismailco)
 [![fiverr](https://img.shields.io/badge/Fiverr-fff?style=for-the-badge&logo=fiverr&logoColor=green)](https://www.fiverr.com/mdigitalnomad)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0133846cddd0a53bd4)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/mdigitalsitizen)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ismailco)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ismailco)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ismailcourr/)
-[![twitter](https://img.shields.io/badge/Twitter-0080ff?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ismailcourr/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ismailcourr/)
- -->
