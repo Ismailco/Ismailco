@@ -85,7 +85,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" /></p>
 
 
-<!-- ## 🛠️ Skills
+## 🛠️ Skills
 
 ### Languages
 
