@@ -131,7 +131,7 @@
 -->
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ismailcourr.ml)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ismailcourr.tech)
 [![freelancer](https://img.shields.io/badge/Freelancer-0080ff?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/ismailco)
 [![fiverr](https://img.shields.io/badge/Fiverr-fff?style=for-the-badge&logo=fiverr&logoColor=green)](https://www.fiverr.com/mdigitalnomad)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0133846cddd0a53bd4)
