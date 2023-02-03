@@ -19,11 +19,11 @@
 
 - ✈️ I love **traveling** as well, even though it's been some time since I last traveled.
 
-- 👨‍💻 All of my projects are available at [https://ismailcourr.ml](https://ismailcourr.tech)
+- 👨‍💻 All of my projects are available at [https://ismailcourr.tech](https://ismailcourr.tech)
 
-- 📫 How to reach me **contact[at]ismailcourr[dot]ml**
+- 📫 How to reach me **contact[at]ismailcourr[dot]tech**
 
-- 📄 Know about my experiences [https://ismailcourr.ml/Resume.pdf](https://ismailcourr.tech/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://ismailcourr.tech/Resume.pdf)
 
 **Join me on my journey as a self-taught developer by following my github!**
 
@@ -91,11 +91,11 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" />
 
-<img align="right" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ismailco" alt="codersrank profile" width="360"/>
+<img align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ismailco" alt="codersrank profile" width="360"/>
 <!--
 ## 🖥️ Workspace Setup
 
