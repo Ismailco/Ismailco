@@ -39,6 +39,7 @@
 <a href="https://www.hackerrank.com/ismailco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ismailco" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ismailco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ismailco" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mrsomeboody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mrsomeboody" height="30" width="40" /></a>
+ <a href="mailto:ismailcourr@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-prof ile-readme-generator/master/src/images/icons/Social/hackerearth.svg](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)" alt="email-me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -76,6 +77,15 @@
  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ </p>
+ 
+ ## 🔗 Links
+
+<p>
+ <a href="https://ismailcourr.tech" target="_blank" rel="noreferrer"> <img src="https://github.com/Ismailco/Portfolio/blob/dev/img/Icons/fav.png" alt="freelancer" width="40" height="40"/> </a>
+  <a href="https://www.freelancer.com/u/ismailco" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" width="40" height="40"/> </a>
+ <a href="https://www.fiverr.com/mdigitalnomad" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="fiverr" width="40" height="40"/> </a>
+ <a href="https://www.upwork.com/freelancers/~0133846cddd0a53bd4" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="upwork" width="40" height="40"/> </a>
  </p>
  
 ## 📈 Progress
@@ -129,12 +139,3 @@
 ![](https://raw.githubusercontent.com/Ismailco/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 -->
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ismailcourr.tech)
-[![freelancer](https://img.shields.io/badge/Freelancer-0080ff?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/ismailco)
-[![fiverr](https://img.shields.io/badge/Fiverr-fff?style=for-the-badge&logo=fiverr&logoColor=green)](https://www.fiverr.com/mdigitalnomad)
-[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0133846cddd0a53bd4)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/mdigitalsitizen)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ismailco)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ismailcourr/)
