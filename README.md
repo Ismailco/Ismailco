@@ -47,7 +47,7 @@
   <a href="https://twitter.com/ismailcourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailcourr" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ismailcourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailcourr" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/users/10354728/ismailco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/10354728/ismailco" height="30" width="40" /></a>
-  <a href="https://instagram.com/ismailcourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailcourr" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ismailco96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailcourr" height="30" width="40" /></a>
    <a href="mailto:ismailcourr@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email-me" height="30" width="40" /></a>
 </p>
 
