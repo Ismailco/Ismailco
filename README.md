@@ -17,8 +17,6 @@
 
 - 👨‍💻 Check out some of my projects at [https://ismailcourr.tech](https://ismailcourr.tech)
 
-- 📫 How to reach me **contact[at]ismailcourr[dot]tech**
-
 **Join me on my journey as a self-taught developer by following me on GitHub and Twitter!**
 
 ## 🔗 Links
