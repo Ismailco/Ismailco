@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1>
-<h3 align="center">A passionate Web Developer (Front End/Full Stack) from Morocco</h3>
+<h3 align="center">A passionate Web Developer from Morocco</h3>
 <img src="https://media.licdn.com/dms/image/D4E16AQF5bZ8Yl6b88w/profile-displaybackgroundimage-shrink_350_1400/0/1674573398663?e=1683763200&v=beta&t=QZ_PWUurMD39REB4_ZVY6Qfy9j1R9agHMvU837Oy6Fw" width="100%" height="300px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="ismailcourr" /></a> </p>
 
@@ -9,23 +9,17 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="image" width="300px"> -->
 
-- 🌱 I am enthusiastic about learning new technology and detail-oriented professional with excellent communication, interpersonal and creative thinking skills.
+- 🌱 I am enthusiastic about learning new technology and a detail-oriented professional with excellent communication, interpersonal, and creative thinking skills.
 
-- 🖥️ Skilled in **HTML**, **CSS**, **JavaScript**, **TailwindCSS**, **SASS**, **TypeScript**, **React**, **Redux**, **Ruby on Rails**, and **PostgreSQL**, Currently learning **Node.js** and **Express**
+- 🖥️ Skilled in **Frontend Development** including **ReactJS**, **NextJS**, and **Tailwind**. with experiance in Full-stack development using **Ruby on Rails** and **PostgreSQL**
  
-- 👀 Outside the world of tech, I love to develop new skills like **playing guitar**🎸. 
+- 👀 Outside the world of tech, I love to develop new skills, **play guitar**🎸, **travel**✈️, and read books 📚 on **personal development**, **Philosophie**, and **Novels**
 
-- 💞️ I love reading **Novels** and books 📚 on **personal development** and **Philosophie**.
-
-- ✈️ I love **traveling** as well, even though it's been some time since I last traveled.
-
-- 👨‍💻 All of my projects are available at [https://ismailcourr.tech](https://ismailcourr.tech)
+- 👨‍💻 Check out some of my projects at [https://ismailcourr.tech](https://ismailcourr.tech)
 
 - 📫 How to reach me **contact[at]ismailcourr[dot]tech**
 
-- 📄 Know about my experiences [Resume](https://ismailcourr.tech/Resume.pdf)
-
-**Join me on my journey as a self-taught developer by following my github!**
+**Join me on my journey as a self-taught developer by following me on GitHub and Twitter!**
 
 ## 🔗 Links
 
