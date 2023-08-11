@@ -9,7 +9,7 @@
 ## 📈 Progress
 
 <div width="100%">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" width="100%/>
 
 <!--
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" />
