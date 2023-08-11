@@ -3,18 +3,27 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1>
 <h3 align="center">A passionate Web Developer from Morocco</h3>
 <!-- <img src="https://media.licdn.com/dms/image/D4E16AQF5bZ8Yl6b88w/profile-displaybackgroundimage-shrink_350_1400/0/1674573398663?e=1683763200&v=beta&t=QZ_PWUurMD39REB4_ZVY6Qfy9j1R9agHMvU837Oy6Fw" width="100%" height="300px"> -->
-<img src="https://raw.githubusercontent.com/Ismailco/Portfolio/dev/img/banner.webp" width="100%" height="300px">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="ismailcourr" /></a> </p>
 
-<!-- 👨‍💻 I am ismail courr, a **Web Developer** (**Front End/Full Stack**). -->
+## 📈 Progress
 
-<!-- <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="image" width="300px"> -->
+<div width="100%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco"/>
+
+<!--
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" />
+
+<img align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ismailco" alt="codersrank profile" width="360"/> -->
+</div>
 
 - 🌱 I am enthusiastic about learning new technology and a detail-oriented professional with excellent communication, interpersonal, and creative thinking skills.
 
 - 🖥️ Skilled in **Frontend Development** including **ReactJS**, **NextJS**, and **Tailwind**. with experiance in Full-stack development using **Ruby on Rails** and **PostgreSQL**
  
-- 👀 Outside the world of tech, I love to develop new skills, **play guitar**🎸, **travel**✈️, and read books 📚 on **personal development**, **Philosophie**, and **Novels**
+<!-- - 👀 Outside the world of tech, I love to develop new skills, **play guitar**🎸, **travel**✈️, and read books 📚 on **personal development**, **Philosophie**, and **Novels** -->
 
 - 👨‍💻 Check out some of my projects at [https://ismailcourr.tech](https://ismailcourr.tech)
 
@@ -79,16 +88,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   </p>
- 
-## 📈 Progress
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" />
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" />
-
-<img align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ismailco" alt="codersrank profile" width="360"/>
+    
 <!--
 ## 🖥️ Workspace Setup
 
