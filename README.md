@@ -4,20 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="ismailcourr" /></a> </p>
 
-## 📈 Progress
-
-<div width="100%">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" width="100%" />
-
-<!--
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" />
-
-<img align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ismailco" alt="codersrank profile" width="360"/> -->
-</div>
-<br />
-<br />
 <br />
 
 - 🌱 I am enthusiastic about learning new technology and a detail-oriented professional with excellent communication, interpersonal, and creative thinking skills.
@@ -89,7 +75,20 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   </p>
-    
+
+## 📈 Progress
+
+<div width="100%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" width="100%" />
+
+<!--
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=dark" alt="ismailco" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailco&show_icons=true&theme=dark&locale=en&layout=compact" alt="ismailco" />
+
+<img align="left" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ismailco" alt="codersrank profile" width="360"/> -->
+</div>
+
 <!--
 ## 🖥️ Workspace Setup
 
