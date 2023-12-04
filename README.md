@@ -79,6 +79,7 @@
 ## 📈 Progress
 
 <div width="100%">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/iscourr" alt="iscourr's 42 stats" /></a>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" width="100%" />
 
 <!--
