@@ -95,7 +95,7 @@ I'd like to explore how I can contribute to the success of your organization. I'
 ## 🔗 Links
 
 <p>
-  <a href="https://ismailcourr.tech" target="_blank" rel="noreferrer"> <img src="https://github.com/Ismailco/Portfolio/blob/dev/img/Icons/fav.png" alt="freelancer" align="center" width="40" height="40"/> </a>
+  <a href="https://ismailcourr.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/Ismailco/Portfolio/blob/dev/img/Icons/fav.png" alt="freelancer" align="center" width="40" height="40"/> </a>
   <a href="https://codepen.io/mdigitalsitizen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdigitalsitizen" height="30" width="40" /></a>
   <a href="https://dev.to/mdigitalsitizen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdigitalsitizen" height="30" width="40" /></a>
    <a href="https://medium.com/@ismailcourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ismailcourr" height="30" width="40" /></a>
