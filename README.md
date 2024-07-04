@@ -110,7 +110,7 @@ I'd like to explore how I can contribute to the success of your organization. I'
 ## 📈 Progress
 
 <div width="100%">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/iscourr" alt="iscourr's 42 stats" /></a>
+<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/iscourr" alt="iscourr's 42 stats" /></a> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" width="100%" />
 
 
