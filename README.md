@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1>
 <h2 align="center">A passionate Web Developer from Morocco</h2>
-<!-- <img src="https://media.licdn.com/dms/image/D4E16AQF5bZ8Yl6b88w/profile-displaybackgroundimage-shrink_350_1400/0/1674573398663?e=1683763200&v=beta&t=QZ_PWUurMD39REB4_ZVY6Qfy9j1R9agHMvU837Oy6Fw" width="100%" height="300px"> -->
 <img src="https://media.licdn.com/dms/image/D4E16AQHkoLF3as-bVQ/profile-displaybackgroundimage-shrink_350_1400/0/1718981620148?e=1724284800&v=beta&t=tCicbKpU07e6sb5o1h5aJBCBXtCntywC--oDtYceUFg" width="100%" height="250px" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="ismailcourr" /></a> </p>
 
