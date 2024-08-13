@@ -109,8 +109,9 @@ I'd like to explore how I can contribute to the success of your organization. I'
 
 ## 📈 Progress
 
-<div width="100%">
+<div width="100%" align="center">
 <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/iscourr" alt="iscourr's 42 stats" /></a> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&theme=dark&locale=en" alt="ismailco" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=ismailco&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ismailco" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=tokyonight&hide_border=true" alt="ismailco" />
+</div>
 
