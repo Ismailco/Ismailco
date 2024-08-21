@@ -9,7 +9,7 @@
 
 🌟 **About Me**
 
-I'm a Fullstack Developer with a strong focus on creating high-performing, user-centric web applications. With a passion for frontend development, I bring a keen eye for detail and a dedication to delivering exceptional user experiences.
+I'm a Fullstack Developer who strongly focuses on creating high-performing, user-centric web applications. With a passion for front-end development, I bring a keen eye for detail and a dedication to delivering exceptional user experiences.
 
 One of my notable achievements includes leading the development of **Postcare**, a comprehensive post-surgery recovery app. This project achieved an impressive Google Lighthouse score of **98/100** for performance, accessibility, and best practices. This accomplishment highlights my commitment to quality, user experience, and technical excellence.
 
@@ -76,7 +76,7 @@ In addition to my professional roles, I have also cultivated expertise as a free
 
 🌟 **What Drives Me**
 
-I'm incredibly passionate about pushing the boundaries of what's possible through innovation and relentless pursuit of excellence. Whether it's optimizing web performance, implementing cutting-edge design patterns, or collaborating with cross-functional teams, I'm always eager to make a positive impact. I truly believe that my unique blend of technical expertise, user-centric design, and problem-solving ability will be a great fit for your team.
+I'm incredibly passionate about pushing the boundaries of what's possible through innovation and relentless pursuit of excellence. Whether it's optimizing web performance, implementing cutting-edge design patterns, or collaborating with cross-functional teams, I'm always eager to make a positive impact. I truly believe my unique blend of technical expertise, user-centric design, and problem-solving ability will be a great fit for your team.
 
 ---
 
