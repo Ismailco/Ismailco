@@ -62,9 +62,13 @@ One of my notable achievements includes leading the development of **Postcare**,
 
 🚀 **Professional Highlights**
 
-- **Postcare**: Led development of a post-surgery recovery app with a Google Lighthouse score of **98/100**.
-- **Microverse**: Played a pivotal role in refining the code review process and enhancing project standards through meticulous feedback and rigorous API testing.
-  
+- **Soultware**: Founder and Lead Fullstack Developer of Soultware, a web design agency. Oversee all aspects of development, combining technical expertise with strategic leadership to deliver exceptional digital solutions.
+
+- **RobinReach**: Volunteering as a Frontend Developer for a social media management platform built with Ruby on Rails, TailwindCSS, and Bootstrap. Responsible for enhancing the frontend through JavaScript, Ruby, and ERB files.
+
+- **Postcare & Parkinn**: Frontend Engineer in a collaborative team under the Co.Lab.io program, contributing to the development of both applications with a focus on creating high-performance, user-friendly interfaces.
+
+- **Microverse**: Experienced Code Reviewer, instrumental in refining the code review process and elevating project standards by providing detailed feedback and conducting thorough API testing.
 
 ---
 
