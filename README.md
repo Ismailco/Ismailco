@@ -5,9 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="ismailcourr" /></a> </p>
 
-<br />
 
----
 
 ## 🌟 **About Me**
 
@@ -19,8 +17,7 @@ One of my notable achievements includes leading the development of **Postcare**,
 
 🌐 **Specializing in JavaScript frameworks** like **React** and **Vue.js**, I consistently deliver web applications that boast clean code, lightning-fast load times, and an impressive average user satisfaction rating of **4.8/5**.
 
----
-
+<br /><br />
 ## 🛠 **My Toolbox**
 
  <p align="left">
@@ -60,7 +57,7 @@ One of my notable achievements includes leading the development of **Postcare**,
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   </p>
 
----
+<br /><br />
 
 ## 🚀 **Professional Highlights**
 
@@ -72,19 +69,29 @@ One of my notable achievements includes leading the development of **Postcare**,
 
 - **Microverse**: Experienced Code Reviewer, instrumental in refining the code review process and elevating project standards by providing detailed feedback and conducting thorough API testing.
 
----
+<br /><br />
 
 ## 💼 **Freelance Expertise**
 
 In addition to my professional roles, I have also cultivated expertise as a freelance web developer. I have mastered essential tools and languages, including **JavaScript**, **HTML/CSS**, **Reactjs**,**MERN Stack**, and **Ruby on Rails**. This diverse experience has honed my ability to adapt quickly to new technologies and deliver high-quality solutions in dynamic environments, often completing projects **30% faster than industry benchmarks**.
 
----
+<br /><br />
 
 ## 🌟 **What Drives Me**
 
 I'm incredibly passionate about pushing the boundaries of what's possible through innovation and relentless pursuit of excellence. Whether it's optimizing web performance, implementing cutting-edge design patterns, or collaborating with cross-functional teams, I'm always eager to make a positive impact. I truly believe my unique blend of technical expertise, user-centric design, and problem-solving ability will be a great fit for your team.
 
 ---
+
+## 📈 Progress
+
+<div width="100%" align="center">
+<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/iscourr" alt="iscourr's 42 stats" /></a> -->
+<img src="https://github-readme-stats.vercel.app/api?username=ismailco&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ismailco" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=tokyonight&hide_border=true" alt="ismailco" width="70%" />
+</div>
+
+----
 
 ## 🤝 **Let's Connect!**
 
@@ -111,13 +118,3 @@ I'd like to explore how I can contribute to the success of your organization. I'
   <a href="https://www.upwork.com/freelancers/ismailcourr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="upwork" align="center" width="40" height="40"/> </a>
   <a href="https://www.fiverr.com/ismail_courr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="fiverr" align="center" width="40" height="40"/> </a>
  </p>
-
-
-## 📈 Progress
-
-<div width="100%" align="center">
-<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/iscourr" alt="iscourr's 42 stats" /></a> -->
-<img src="https://github-readme-stats.vercel.app/api?username=ismailco&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="ismailco" width="70%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&theme=tokyonight&hide_border=true" alt="ismailco" width="70%" />
-</div>
-
