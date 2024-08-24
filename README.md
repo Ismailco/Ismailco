@@ -1,13 +1,15 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1>
 <h2 align="center">A passionate Web Developer from Morocco</h2>
-<img src="https://media.licdn.com/dms/image/D4E16AQHkoLF3as-bVQ/profile-displaybackgroundimage-shrink_350_1400/0/1718981620148?e=1724284800&v=beta&t=tCicbKpU07e6sb5o1h5aJBCBXtCntywC--oDtYceUFg" width="100%" height="250px" />
+<!-- <img src="https://media.licdn.com/dms/image/D4E16AQHkoLF3as-bVQ/profile-displaybackgroundimage-shrink_350_1400/0/1718981620148?e=1724284800&v=beta&t=tCicbKpU07e6sb5o1h5aJBCBXtCntywC--oDtYceUFg" width="100%" height="250px" /> -->
+<img src="https://github.com/user-attachments/assets/280abf99-bc5f-4cb0-8124-74335c347b07" width="100%" />
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="ismailcourr" /></a> </p>
 
 <br />
 
 ---
 
-🌟 **About Me**
+## 🌟 **About Me**
 
 I'm a Fullstack Developer who strongly focuses on creating high-performing, user-centric web applications. With a passion for front-end development, I bring a keen eye for detail and a dedication to delivering exceptional user experiences.
 
@@ -19,7 +21,7 @@ One of my notable achievements includes leading the development of **Postcare**,
 
 ---
 
-🛠 **My Toolbox**
+## 🛠 **My Toolbox**
 
  <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -60,7 +62,7 @@ One of my notable achievements includes leading the development of **Postcare**,
 
 ---
 
-🚀 **Professional Highlights**
+## 🚀 **Professional Highlights**
 
 - **Soultware**: Founder and Lead Fullstack Developer of Soultware, a web design agency. Oversee all aspects of development, combining technical expertise with strategic leadership to deliver exceptional digital solutions.
 
@@ -72,19 +74,19 @@ One of my notable achievements includes leading the development of **Postcare**,
 
 ---
 
-💼 **Freelance Expertise**
+## 💼 **Freelance Expertise**
 
 In addition to my professional roles, I have also cultivated expertise as a freelance web developer. I have mastered essential tools and languages, including **JavaScript**, **HTML/CSS**, **Reactjs**,**MERN Stack**, and **Ruby on Rails**. This diverse experience has honed my ability to adapt quickly to new technologies and deliver high-quality solutions in dynamic environments, often completing projects **30% faster than industry benchmarks**.
 
 ---
 
-🌟 **What Drives Me**
+## 🌟 **What Drives Me**
 
 I'm incredibly passionate about pushing the boundaries of what's possible through innovation and relentless pursuit of excellence. Whether it's optimizing web performance, implementing cutting-edge design patterns, or collaborating with cross-functional teams, I'm always eager to make a positive impact. I truly believe my unique blend of technical expertise, user-centric design, and problem-solving ability will be a great fit for your team.
 
 ---
 
-🤝 **Let's Connect!**
+## 🤝 **Let's Connect!**
 
 I'd like to explore how I can contribute to the success of your organization. I'm ready to bring my versatile skill set and collaborative mindset to your team, where we can work together to build something remarkable.
 
