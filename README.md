@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1>
 <h2 align="center">A passionate Web Developer from Morocco</h2>
 <!-- <img src="https://media.licdn.com/dms/image/D4E16AQHkoLF3as-bVQ/profile-displaybackgroundimage-shrink_350_1400/0/1718981620148?e=1724284800&v=beta&t=tCicbKpU07e6sb5o1h5aJBCBXtCntywC--oDtYceUFg" width="100%" height="250px" /> -->
 <img src="https://github.com/user-attachments/assets/280abf99-bc5f-4cb0-8124-74335c347b07" width="100%" />
