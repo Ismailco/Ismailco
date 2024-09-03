@@ -69,7 +69,7 @@ One of my notable achievements includes leading the development of **Postcare**,
 
 - **Microverse**: Experienced Code Reviewer, instrumental in refining the code review process and elevating project standards by providing detailed feedback and conducting thorough API testing.
 
-<br /><br />
+<br />
 
 ## 💼 **Freelance Expertise**
 
