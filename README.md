@@ -82,7 +82,7 @@ In addition to my professional roles, my freelance journey has been a playground
 
 This diverse experience has sharpened my ability to navigate and excel in the ever-evolving tech landscape.
 
-<br /><br />
+<br />
 
 ## 🌟 **What Drives Me**
 
