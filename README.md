@@ -132,3 +132,6 @@ I'd like to explore how I can contribute to the success of your organization. I'
   <a href="https://www.upwork.com/freelancers/ismailcourr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="upwork" align="center" width="40" height="40"/> </a>
   <a href="https://www.fiverr.com/ismail_courr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="fiverr" align="center" width="40" height="40"/> </a>
  </p>
+
+
+<br />
