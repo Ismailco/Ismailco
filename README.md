@@ -8,7 +8,7 @@
 <br />  
  
 ## 🌟 **About Me**
-
+ 
 I'm a Fullstack Developer with a strong focus on creating high-performing, user-centric web applications. My passion for front-end development drives me to pay meticulous attention to detail and deliver exceptional user experiences.
 
 One of my notable achievements includes leading the development of **Postcare**, a comprehensive post-surgery recovery app. This project achieved an impressive Google Lighthouse score of **98/100** for performance, accessibility, and best practices, highlighting my commitment to quality, user experience, and technical excellence.
