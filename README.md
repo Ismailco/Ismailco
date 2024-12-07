@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Web Developer from Morocco</h2> 
 <img src="https://github.com/user-attachments/assets/280abf99-bc5f-4cb0-8124-74335c347b07" width="100%" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="ismailcourr" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="Ismail Courr Full-Slack Developer" /></a> </p>
   
 <br />  
  
