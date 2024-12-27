@@ -6,15 +6,23 @@
   
 <br />
  
-## 🌟 **About Me**
-  
-I'm a Fullstack Developer with a strong focus on creating high-performing, user-centric web applications. My passion for front-end development drives me to pay meticulous attention to detail and deliver exceptional user experiences.
+# About Me 👋  
+Hi there! I’m a full-stack developer and entrepreneur passionate about building meaningful technology 🚀.  
 
-One of my notable achievements includes leading the development of **Postcare**, a comprehensive post-surgery recovery app. This project achieved an impressive Google Lighthouse score of **98/100** for performance, accessibility, and best practices, highlighting my commitment to quality, user experience, and technical excellence.
+My journey into tech wasn’t conventional—I started in philosophy 🧠, exploring life’s big questions, before discovering the creative potential of coding in 2018 💻. Since then, I’ve gained expertise in:  
+- 🛠️ **Frameworks & Tools**: Ruby on Rails, React, Next.js, Flutter, and Tailwind CSS  
+- 🌐 **Backend Technologies**: Node.js, NestJS, and PostgreSQL  
+- 🔄 **Agile & Scrum Methodologies**  
 
-🎓 My educational background in **Computer Software Development**, combined with a strong foundation in **Philosophy**, equips me with a unique problem-solving approach and a deep understanding of user needs. This interdisciplinary perspective allows me to craft intuitive interfaces and seamless functionality that truly delight users.
+Life hasn’t been without challenges. Depression, social anxiety, and setbacks like dropping out of college and facing rejections tested me 😔. But each step taught me resilience, humility, and the value of continuous learning 💪.  
 
-🌐 **Specializing in JavaScript frameworks** like **React** and **Vue.js**, I consistently deliver web applications with clean code, lightning-fast load times, and an impressive average user satisfaction rating of **4.8/5**.
+### Currently, I’m:  
+- 🌟 Building a healthcare SaaS platform to transform how clinics and doctors manage operations  
+- 🤝 Volunteering as a developer for a startup, where I enjoy collaborating on frontend and backend tasks  
+
+I’m always eager to learn, adapt, and grow—whether it’s through creating seamless digital experiences or helping others along their journeys 🌱.  
+
+Let’s connect and create something meaningful together! 🌍  
 
 <br />
 
