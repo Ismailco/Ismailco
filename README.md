@@ -1,10 +1,11 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1>
+<!-- <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Ismail Courr</h1> -->
 
-<h2 align="center">A passionate Web Developer from Morocco</h2>
+<!-- <h2 align="center">A passionate Web Developer from Morocco</h2> -->
 
-<img src="https://github.com/user-attachments/assets/280abf99-bc5f-4cb0-8124-74335c347b07" width="100%" />
+<img src="https://github.com/user-attachments/assets/a8794455-5b2d-40fd-8294-3b94c9617e80" width="100%" />
+<!-- <img src="https://github.com/user-attachments/assets/280abf99-bc5f-4cb0-8124-74335c347b07" width="100%" /> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="Ismail Courr Full-Slack Developer" /></a> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailco&label=Profile%20views&color=0e75b6&style=flat" alt="ismailco" /> <a href="https://twitter.com/ismailcourr" target="blank"><img src="https://img.shields.io/twitter/follow/ismailcourr?logo=twitter&style=flat" alt="Ismail Courr Full-Slack Developer" /></a> </p> -->
   
 <br />
  
