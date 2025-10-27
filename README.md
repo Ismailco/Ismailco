@@ -13,7 +13,7 @@
 Hi there! I’m a full-stack developer and entrepreneur passionate about building meaningful technology 🚀.  
 
 My journey into tech wasn’t conventional—I started in philosophy 🧠, exploring life’s big questions, before discovering the creative potential of coding in 2018 💻. Since then, I’ve gained expertise in:  
-- 🛠️ **Frameworks & Tools**: Ruby on Rails, React, Next.js, Flutter, and Tailwind CSS  
+- 🛠️ **Frameworks & Tools**: Ruby on Rails, React, Next.js, and Tailwind CSS  
 - 🌐 **Backend Technologies**: Node.js, NestJS, and PostgreSQL  
 - 🔄 **Agile & Scrum Methodologies**  
 
