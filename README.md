@@ -76,7 +76,7 @@ Let’s connect and create something meaningful together! 🌍
 
 - **RobinReach**: Volunteering as a Frontend Developer for a social media management platform built with Ruby on Rails, TailwindCSS, and Bootstrap. Responsible for enhancing the frontend through JavaScript, Ruby, and ERB files.
 
-- **Postcare & Parkinn**: Frontend Engineer in a collaborative team under the Co.Lab.io program, contributing to the development of both applications with a focus on creating high-performance, user-friendly interfaces.
+- **Postcare & Parkinn**: Frontend Developer in a collaborative team under the Co.Lab.io program, contributing to the development of both applications with a focus on creating high-performance, user-friendly interfaces.
 
 - **Microverse**: Experienced Code Reviewer, instrumental in refining the code review process and elevating project standards by providing detailed feedback and conducting thorough API testing.
 
