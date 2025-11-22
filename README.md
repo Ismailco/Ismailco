@@ -10,14 +10,12 @@
 <br />
  
 # About Me 👋  
-Hi there! I’m a full-stack developer and entrepreneur passionate about building meaningful technology 🚀.  
+Hi there! I’m a full-stack developer building meaningful technology 🚀.  
 
 My journey into tech wasn’t conventional—I started in philosophy 🧠, exploring life’s big questions, before discovering the creative potential of coding in 2018 💻. Since then, I’ve gained expertise in:  
 - 🛠️ **Frameworks & Tools**: Ruby on Rails, React, Next.js, and Tailwind CSS  
 - 🌐 **Backend Technologies**: Node.js, NestJS, and PostgreSQL  
 - 🔄 **Agile & Scrum Methodologies**  
-
-Life hasn’t been without challenges. Depression, social anxiety, and setbacks like dropping out of college and facing rejections tested me 😔. But each step taught me resilience, humility, and the value of continuous learning 💪.  
 
 ### Currently, I’m:  
 - 🌟 Building a healthcare SaaS platform to transform how clinics and doctors manage operations  
