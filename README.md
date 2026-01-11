@@ -16,13 +16,13 @@ My journey into tech wasn’t conventional—I started in philosophy 🧠, explo
 - 🛠️ **Frameworks & Tools**: Ruby on Rails, React, Next.js, and Tailwind CSS  
 - 🌐 **Backend Technologies**: Node.js, NestJS, and PostgreSQL  
 - 🔄 **Agile & Scrum Methodologies**  
-
+<!--
 ### Currently, I’m:  
 - 🌟 Building a healthcare SaaS platform to transform how clinics and doctors manage operations  
 - 🤝 Volunteering as a developer for a startup, where I enjoy collaborating on frontend and backend tasks  
 
 I’m always eager to learn, adapt, and grow—whether it’s through creating seamless digital experiences or helping others along their journeys 🌱.  
-
+-->
 Let’s connect and create something meaningful together! 🌍  
 
 <br />
