@@ -4,7 +4,7 @@
 
 Full-stack developer with strong experience building production web applications using Ruby on Rails, React, and Next.js. Background in scalable frontend architectures, backend APIs, and database-driven systems. Focused on performance, maintainability, and clean implementation.
 
-Started programming in 2018 and have since worked across startups, freelance projects, and agency environments, contributing to both frontend and backend codebases.
+Started programming in 2020 and have since worked across startups, freelance projects, and agency environments, contributing to both frontend and backend codebases.
 
 ---
 
