@@ -1,30 +1,48 @@
 <img src="https://github.com/user-attachments/assets/a8794455-5b2d-40fd-8294-3b94c9617e80" width="100%" />
 
-## About
+---
 
-Full-stack developer with strong experience building production web applications using Ruby on Rails, React, and Next.js. Background in scalable frontend architectures, backend APIs, and database-driven systems. Focused on performance, maintainability, and clean implementation.
+Full-stack developer building web applications with Ruby on Rails, React, Next.js, and TypeScript.
 
-Started programming in 2020 and have since worked across startups, freelance projects, and agency environments, contributing to both frontend and backend codebases.
+Started programming in 2020 and have since worked across startups, freelance projects, and internal tools, contributing to both frontend and backend codebases.
 
 ---
 
-## Technical Stack
+## Current Work
 
-**Frontend**
-- HTML5, CSS3, Sass
-- Tailwind CSS, Bootstrap
-- JavaScript, TypeScript
-- React, Next.js
+- Building and maintaining production web applications
+- Backend APIs and database-driven systems
+- Frontend architecture and performance
+- Type-safe JavaScript development
 
-**Backend**
+---
+
+## Tech Stack
+
+### Frontend
+- HTML5
+- CSS3 / Sass
+- Tailwind CSS
+- Bootstrap
+- JavaScript
+- TypeScript
+- React
+- Next.js
+
+### Backend
 - Ruby on Rails
-- Node.js, Express
-- PostgreSQL, SQLite
+- Node.js
+- Express
 
-**Tools & Environment**
+### Databases
+- PostgreSQL
+- SQLite
+
+### Tools
 - Git
 - Linux
 - Bash
+- Docker
 - Figma
 
 <p align="left">
@@ -43,48 +61,45 @@ Started programming in 2020 and have since worked across startups, freelance pro
 
 ---
 
-## Professional Experience
+## Experience
 
-**Soultware**  
-Founder & Lead Full-Stack Developer  
-- Lead development for client projects from architecture to deployment  
-- Build custom, performance-focused web applications  
-- Handle technical decision-making and delivery
+### Soultware
 
-**RobinReach**  
-Frontend Developer (Volunteer)  
-- Worked on a Ruby on Rails application  
-- Improved UI and frontend behavior using JavaScript, ERB, and Tailwind CSS
+- Build and maintain client web applications
+- Design backend APIs and database structures
+- Implement frontend interfaces with React and Next.js
+- Handle deployment and production fixes
 
-**Postcare & Parkinn (Co.Lab.io)**  
-Frontend Developer  
-- Contributed to team-based projects  
-- Focused on UI implementation and performance optimization
+### RobinReach
 
-**Microverse**  
-Code Reviewer  
-- Reviewed student projects  
-- Provided structured feedback on code quality, architecture, and best practices  
-- Performed API testing and validation
+Frontend Developer (Volunteer)
 
----
+- Contributed to a Ruby on Rails application
+- Improved UI behavior using ERB, JavaScript, and Tailwind CSS
 
-## Freelance Work
+### Postcare & Parkinn (Co.Lab)
 
-- Built and maintained web applications using React, Ruby on Rails, MERN, PHP, and WordPress
-- Developed custom WordPress themes and extensions/plugins tailored to client needs
-- Delivered projects efficiently while maintaining code quality and long-term maintainability
-- Comfortable working independently or integrating into existing teams
-- Experienced in translating business requirements into practical technical solutions
+Frontend Developer
+
+- Implemented UI components and pages
+- Worked in a team environment on shared codebases
+
+### Microverse
+
+Code Reviewer
+
+- Reviewed student projects
+- Provided feedback on code quality and architecture
+- Performed API testing and debugging
 
 ---
 
-## Focus Areas
+## Freelance
 
-- Web performance and optimization
-- Clean, maintainable frontend architecture
-- Backend API design
-- Pragmatic engineering decisions over hype
+- Built web applications using React, Ruby on Rails, MERN, and Next.js
+- Developed custom WordPress themes and plugins
+- Maintained existing production systems
+- Worked directly with clients on implementation and delivery
 
 ---
 
