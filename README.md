@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a8794455-5b2d-40fd-8294-3b94c9617e80" width="100%" alt="Ismail Courr" />
+<!-- <img src="https://github.com/user-attachments/assets/a8794455-5b2d-40fd-8294-3b94c9617e80" width="100%" alt="Ismail Courr" /> -->
 
 # Ismail Courr
 
