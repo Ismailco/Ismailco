@@ -1,113 +1,107 @@
-<img src="https://github.com/user-attachments/assets/a8794455-5b2d-40fd-8294-3b94c9617e80" width="100%" />
+<img src="https://github.com/user-attachments/assets/a8794455-5b2d-40fd-8294-3b94c9617e80" width="100%" alt="Ismail Courr" />
+
+# Ismail Courr
+
+**Full-Stack Software Engineer** building production web applications with React, Next.js, TypeScript, Node.js, Ruby on Rails, and PostgreSQL.
+
+I work across frontend and backend, from responsive product interfaces and application state to REST APIs, database-backed workflows, integrations, deployment, and production debugging.
+
+I also use **Cursor, Claude Code, and Codex** as engineering tools for implementation, codebase exploration, debugging, refactoring, testing, and code review.
+
+**Open to remote Full-Stack, Frontend, Software Engineer, and Product Engineer roles with international teams.**
 
 ---
 
-Full-stack developer building web applications with Ruby on Rails, React, Next.js, and TypeScript.
+## Featured Engineering Work
 
-Started programming in 2020 and have since worked across startups, freelance projects, and internal tools, contributing to both frontend and backend codebases.
+### Industrial RFQ System
 
----
+A working B2B system demonstrating how industrial quote requests can move from structured customer intake into internal qualification and engineering review.
 
-## Current Work
+**What it demonstrates**
 
-- Building and maintaining production web applications
-- Backend APIs and database-driven systems
-- Frontend architecture and performance
-- Type-safe JavaScript development
+* Conditional and server-side validation
+* Structured RFQ and activity records
+* File upload and attachment workflows
+* Request status and ownership
+* Internal review flows
+* Cloudflare D1 persistence
+* Cloudflare R2 file handling
+* API and integration boundaries
+* Workspace-scoped data
+* Automated workflow validation
+* OpenNext / Cloudflare deployment
 
----
+The technical case study separates what is implemented in the demo from what would need to be defined for a production deployment.
 
-## Tech Stack
+**[Technical case study →](https://soultware.com/en/work/industrial-rfq-system)**
 
-### Frontend
-- HTML5
-- CSS3 / Sass
-- Tailwind CSS
-- Bootstrap
-- JavaScript
-- TypeScript
-- React
-- Next.js
+### GoalGenius
 
-### Backend
-- Ruby on Rails
-- Node.js
-- Express
+A full-stack goal-management application built with Next.js, TypeScript, Cloudflare D1, Drizzle ORM, authentication, and schema validation.
 
-### Databases
-- PostgreSQL
-- SQLite
+**Engineering areas**
 
-### Tools
-- Git
-- Linux
-- Bash
-- Docker
-- Figma
+* Authenticated user-owned data
+* Relational data modeling
+* Type-safe persistence with Drizzle
+* Zod validation
+* Server-side application logic
+* Cloudflare deployment
+* Production-oriented application structure
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40" alt="Ruby"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" width="40" alt="Ruby on Rails"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-</p>
+**[Source code →](https://github.com/Ismailco/GoalGenius)**
 
 ---
 
-## Experience
+## Engineering Experience
 
-### Soultware
+I've worked on production applications across frontend and backend in cross-functional product environments.
 
-- Build and maintain client web applications
-- Design backend APIs and database structures
-- Implement frontend interfaces with React and Next.js
-- Handle deployment and production fixes
+My work has included:
 
-### RobinReach
+* Building product features with React, Next.js, TypeScript, and JavaScript
+* Developing REST APIs and PostgreSQL-backed functionality
+* Creating reusable frontend components and application interfaces
+* Working with Ruby on Rails applications and ERB
+* Debugging caching, application state, performance, and production issues
+* Working with PWA behavior and responsive interfaces
+* Participating in code review and collaborative product delivery
 
-Frontend Developer (Volunteer)
-
-- Contributed to a Ruby on Rails application
-- Improved UI behavior using ERB, JavaScript, and Tailwind CSS
-
-### Postcare & Parkinn (Co.Lab)
-
-Frontend Developer
-
-- Implemented UI components and pages
-- Worked in a team environment on shared codebases
-
-### Microverse
-
-Code Reviewer
-
-- Reviewed student projects
-- Provided feedback on code quality and architecture
-- Performed API testing and debugging
+I also spent roughly two years reviewing full-stack software projects and completed **1,500+ project reviews**, providing technical feedback on React, Ruby on Rails, JavaScript, REST APIs, debugging, architecture, code quality, and maintainability.
 
 ---
 
-## Freelance
+## Core Stack
 
-- Built web applications using React, Ruby on Rails, MERN, and Next.js
-- Developed custom WordPress themes and plugins
-- Maintained existing production systems
-- Worked directly with clients on implementation and delivery
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
+
+**Backend:** Node.js · Express.js · Ruby on Rails · REST APIs
+
+**Data:** PostgreSQL · Prisma · Drizzle ORM · SQLite · Cloudflare D1
+
+**Engineering:** Git · Docker · Linux · CI/CD · PWA · API Integration · Cloudflare
+
+**AI-Assisted Development:** Cursor · Claude Code · Codex
 
 ---
 
-## GitHub Activity
+## What I Work Best On
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailco&show_icons=true&hide_border=true" width="70%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailco&hide_border=true" width="70%" />
-</div>
+I’m particularly interested in product engineering work involving full-stack features, internal tools, database-backed applications, API integrations, business workflows, performance, debugging, and maintainable production systems.
+
+I prefer solving real product and engineering problems over building isolated UI demos.
+
+---
+
+## Currently
+
+I’m looking for remote opportunities as a:
+
+**Full-Stack Engineer · Frontend Engineer · Software Engineer · Product Engineer**
+
+Based in Morocco and open to international remote teams.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/ismailcourr) · [Portfolio](https://ismailcourr.dev) · [Soultware](https://soultware.com)
