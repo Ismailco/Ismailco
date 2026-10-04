@@ -1,74 +1,58 @@
-<!-- <img src="https://github.com/user-attachments/assets/a8794455-5b2d-40fd-8294-3b94c9617e80" width="100%" alt="Ismail Courr" /> -->
-
 # Ismail Courr
 
-**Full-Stack Software Engineer** building production web applications with React, Next.js, TypeScript, Node.js, Ruby on Rails, and PostgreSQL.
+Hi, I’m Ismail, a full-stack software engineer in Morocco. I build web applications with React, Next.js, TypeScript, Node.js, Ruby on Rails, and PostgreSQL. I like following a feature from its interface through its API and data model, then sticking around to debug it in production.
 
-I work across frontend and backend, from responsive product interfaces and application state to REST APIs, database-backed workflows, integrations, deployment, and production debugging.
-
-I also use **Cursor, Claude Code, and Codex** as engineering tools for implementation, codebase exploration, debugging, refactoring, testing, and code review.
-
-**Open to remote Full-Stack, Frontend, Software Engineer, and Product Engineer roles with international teams.**
+I’m also the founder of Soultware.
 
 ---
 
-## Featured Engineering Work
+## Selected Work
 
-### Industrial RFQ System
+### [SaveIt](https://github.com/Ismailco/SaveIt)
 
-A working B2B system demonstrating how industrial quote requests can move from structured customer intake into internal qualification and engineering review.
+A Chrome new-tab page for organizing bookmarks into categories and saving open tabs. Bookmarks stay in the browser, stored with IndexedDB.
 
-**What it demonstrates**
+**Tech:** JavaScript, IndexedDB, Chrome extensions
 
-* Conditional and server-side validation
-* Structured RFQ and activity records
-* File upload and attachment workflows
-* Request status and ownership
-* Internal review flows
-* Cloudflare D1 persistence
-* Cloudflare R2 file handling
-* API and integration boundaries
-* Workspace-scoped data
-* Automated workflow validation
-* OpenNext / Cloudflare deployment
+### [LinkedIn Page Posts Cleaner](https://github.com/Ismailco/linkedin-page-posts-cleaner)
 
-The technical case study separates what is implemented in the demo from what would need to be defined for a production deployment.
+A Chrome extension for removing published posts from LinkedIn company pages. It has adjustable delays, a session limit, progress updates, and a stop control.
 
-**[Technical case study →](https://soultware.com/en/work/industrial-rfq-system)**
+**Tech:** JavaScript, Manifest V3, `chrome.storage.local`
 
-### GoalGenius
+### [Better UoPeople Portal](https://github.com/Ismailco/Better-UoPeople-Portal)
 
-A full-stack goal-management application built with Next.js, TypeScript, Cloudflare D1, Drizzle ORM, authentication, and schema validation.
+A Brightspace extension that improves navigation and lesson layout, and filters the home page to the current UoPeople unit. Its content script handles the portal’s component and shadow-root structure.
 
-**Engineering areas**
+**Tech:** JavaScript, Chrome extensions, DOM integration
 
-* Authenticated user-owned data
-* Relational data modeling
-* Type-safe persistence with Drizzle
-* Zod validation
-* Server-side application logic
-* Cloudflare deployment
-* Production-oriented application structure
+### [Rungset](https://github.com/Ismailco/Rungset)
 
-**[Source code →](https://github.com/Ismailco/GoalGenius)**
+An open-source app for turning goals into milestones and focused weekly tasks. Built with Next.js, React, TypeScript, Better Auth, Drizzle ORM, and Cloudflare D1.
+
+**Engineering areas:** Authenticated user data, relational data modeling, offline support, server-side application logic, Cloudflare Workers deployment
+
+### [Medical Practice Management](https://github.com/Ismailco/medical-practice-management)
+
+Open-source software for small clinics to manage appointments, consultations, follow-ups, and prescriptions. Built with Next.js, TypeScript, and PostgreSQL.
+
+**Engineering areas:** Server-side authorization, immutable clinical-note history, audit records, automated tests, CI
 
 ---
 
 ## Engineering Experience
 
-I've worked on production applications across frontend and backend in cross-functional product environments.
-
-My work has included:
+I’ve worked on production applications in cross-functional teams. My work has included:
 
 * Building product features with React, Next.js, TypeScript, and JavaScript
 * Developing REST APIs and PostgreSQL-backed functionality
-* Creating reusable frontend components and application interfaces
+* Creating reusable components and responsive interfaces
 * Working with Ruby on Rails applications and ERB
-* Debugging caching, application state, performance, and production issues
-* Working with PWA behavior and responsive interfaces
-* Participating in code review and collaborative product delivery
+* Debugging application state, caching, performance, and production issues
+* Building and maintaining progressive web app features
+* Reviewing code and working with product and engineering teammates
 
-I also spent roughly two years reviewing full-stack software projects and completed **1,500+ project reviews**, providing technical feedback on React, Ruby on Rails, JavaScript, REST APIs, debugging, architecture, code quality, and maintainability.
+For about two years, I also reviewed full-stack software projects and completed **1,500+ project reviews**, giving feedback on React, Ruby on Rails, JavaScript, REST APIs, debugging, architecture, and maintainability.
 
 ---
 
@@ -80,27 +64,19 @@ I also spent roughly two years reviewing full-stack software projects and comple
 
 **Data:** PostgreSQL · Prisma · Drizzle ORM · SQLite · Cloudflare D1
 
-**Engineering:** Git · Docker · Linux · CI/CD · PWA · API Integration · Cloudflare
-
-**AI-Assisted Development:** Cursor · Claude Code · Codex
+**Engineering:** Git · Docker · Linux · CI/CD · Progressive Web Apps · API integration · Cloudflare Workers · OpenNext
 
 ---
 
-## What I Work Best On
+## What I Enjoy Working On
 
-I’m particularly interested in product engineering work involving full-stack features, internal tools, database-backed applications, API integrations, business workflows, performance, debugging, and maintainable production systems.
-
-I prefer solving real product and engineering problems over building isolated UI demos.
+I enjoy building full-stack features, internal tools, API integrations, and workflows backed by real application data. I’m also happy digging into performance issues, debugging production problems, and making code easier to maintain.
 
 ---
 
 ## Currently
 
-I’m looking for remote opportunities as a:
-
-**Full-Stack Engineer · Frontend Engineer · Software Engineer · Product Engineer**
-
-Based in Morocco and open to international remote teams.
+I’m open to remote **Full-Stack Engineer, Frontend Engineer, Software Engineer, or Product Engineer** roles with international teams. I’m based in Morocco.
 
 ---
 
