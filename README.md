@@ -20,23 +20,11 @@ A Chrome extension for removing published posts from LinkedIn company pages. It 
 
 **Tech:** JavaScript, Manifest V3, `chrome.storage.local`
 
-### [Better UoPeople Portal](https://github.com/Ismailco/Better-UoPeople-Portal)
-
-A Brightspace extension that improves navigation and lesson layout, and filters the home page to the current UoPeople unit. Its content script handles the portal’s component and shadow-root structure.
-
-**Tech:** JavaScript, Chrome extensions, DOM integration
-
 ### [Rungset](https://github.com/Ismailco/Rungset)
 
 An open-source app for turning goals into milestones and focused weekly tasks. Built with Next.js, React, TypeScript, Better Auth, Drizzle ORM, and Cloudflare D1.
 
 **Engineering areas:** Authenticated user data, relational data modeling, offline support, server-side application logic, Cloudflare Workers deployment
-
-### [Medical Practice Management](https://github.com/Ismailco/medical-practice-management)
-
-Open-source software for small clinics to manage appointments, consultations, follow-ups, and prescriptions. Built with Next.js, TypeScript, and PostgreSQL.
-
-**Engineering areas:** Server-side authorization, immutable clinical-note history, audit records, automated tests, CI
 
 ---
 
